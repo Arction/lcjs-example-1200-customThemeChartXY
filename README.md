@@ -57,6 +57,6 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 
 
 [CSS color factory]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/globals.html#colorcss
-[Custom theme]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/
-[Theme]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/
+[Custom theme]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/globals.html#customtheme
+[Theme]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/interfaces/theme.html
 
